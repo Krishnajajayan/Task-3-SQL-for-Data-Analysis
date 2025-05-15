@@ -78,5 +78,3 @@ This project explores customer and order data from the Northwind dataset using *
 - Ideal for prototyping, small applications, and data analysis
 - Entire database stored in a single file or memory
 - Compatible with Python via `sqlite3`
-
----
